@@ -1,0 +1,17 @@
+.title {
+    font-size: 40px;
+    font-family: sans-serif;
+}
+button {
+    background-color: #f5804ef3;
+    margin-left: 5px;
+    padding: 10px;
+    margin-top: 4px;
+    margin-right: 9px;
+    border: none;
+    border-radius: 3px;
+    font-size: 19px;
+}
+textarea {display: block;
+    margin: 10px 5px;
+}
