@@ -1,4 +1,5 @@
-function upCase() {
-    let string = document.getElementById("converter");
-    return string.toUpperCase(); 
-}
+function myFunction() {
+    let text = document.getElementById("converter").innerHTML;
+    document.getElementById("converter").innerHTML = text.toUpperCase();
+    return text;
+  }
