@@ -1,4 +1,4 @@
 function upCase() {
-    let string = index.html.getElementById("converter");
-    console.log (string.toUpperCase()); 
+    let string = document.getElementById("converter");
+    return string.toUpperCase(); 
 }
